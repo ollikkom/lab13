@@ -46,5 +46,4 @@ Person.yml
 
   1:1       warning  missing document start "---"  (document-start)
 
-Если нет yaml, устанавливаем
-## $ sudo pip install yamllint
+
