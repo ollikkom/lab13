@@ -30,10 +30,15 @@ Phone (optional):
 $ cat Person.yml
 
 first_name: Sara
+
 last_name: As
+
 nickname: ol
+
 server: ya.ru
+
 age: 12
+
 phone: 8965445557
 
 $ yamllint person1.yml
