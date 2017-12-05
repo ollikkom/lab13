@@ -1,0 +1,4 @@
+/Users/qwerty/LABS/lab13/_builds/CMakeFiles/rebuild_cache.dir
+/Users/qwerty/LABS/lab13/_builds/CMakeFiles/edit_cache.dir
+/Users/qwerty/LABS/lab13/_builds/CMakeFiles/unpack.dir
+/Users/qwerty/LABS/lab13/_builds/CMakeFiles/pack.dir
