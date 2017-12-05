@@ -42,8 +42,8 @@ phone: 8965445557
 
 
 ## $ yamllint person1.yml
-## $
 Person.yml
+
   1:1       warning  missing document start "---"  (document-start)
 
 Если нет yaml, устанавливаем
