@@ -1,8 +1,6 @@
 # lab13
-
 Лабораторная работа №13
 
-$ git clone https://github.com/Talkytitan5127/lab13
 
 $ cmake -H. -B_builds
 
@@ -14,15 +12,20 @@ $ ./pack Person.yml
 
 Enter data to fields of the Person structure.
 First name:
-Sara↵
+Sara
+
 Last name:
-As↵
+As
+
 Email:
-ol@ya.ru↵
+ol@ya.ru
+
 Age(optional):
-12↵
+12
+
 Phone (optional):
-8965445557↵
+8965445557
+
 
 $ cat Person.yml
 
